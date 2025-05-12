@@ -200,5 +200,5 @@ Ayrı güvenlik bileşenlerini ince ayarlayın:
 ## 📧 İletişim ve Katkı
 
 Sorular, geri bildirimler veya katkılar için lütfen iletişime geçin:
-- Slaweally
+- Slaweally -> Sys@rootali.net
 - Web sitesi: [Megabre.com](https://megabre.com)
