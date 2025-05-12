@@ -1,7 +1,6 @@
 # Windows Security Manager Pro
 
-![Windows Security Manager Pro](https://via.placeholder.com/800x400?text=Windows+Security+Manager+Pro)
-
+![Windows Security Manager Pro](https://raw.githubusercontent.com/slaweallx/WSMPro/refs/heads/main/wsmpro.png)
 A powerful and user-friendly tool for managing Windows built-in security features with just one click. Maximize your Windows security without third-party antivirus software.
 
 **Powered by Slaweally (Megabre.com)**
